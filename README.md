@@ -8,3 +8,5 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I debug my code like a detective 🕵️‍♂️ — 90% searching on Google, 10% fixing.
   
+
+### Hi 👋! My name is Rinku and I'm an undergraduated student of CSE.
