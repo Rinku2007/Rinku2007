@@ -75,6 +75,27 @@ I focus on building **real-world, scalable applications** and transforming ideas
 </div>
 
 ---
+## 🚀 GitHub Analytics
+
+<div align="center">
+
+<!-- Contribution Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rinku2007&theme=tokyo-night&hide_border=true" />
+
+<br><br>
+
+<!-- Streak -->
+<img src="https://streak-stats.demolab.com?user=Rinku2007&theme=tokyonight&hide_border=true" />
+
+<br><br>
+
+<!-- Languages % -->
+<img src="https://readmestate.vercel.app/api/top-langs/?username=Rinku2007&layout=compact&theme=react&bg_color=0d1117&title_color=00d9ff&text_color=ffffff&border_color=30363d&hide_border=true&langs_count=8" alt="Top Languages" />
+
+</div>
+
+---
+
 ## 🚀 Professional Experience & Timeline
 
 ### 🧑‍💻 MERN Full-Stack Virtual Intern  
