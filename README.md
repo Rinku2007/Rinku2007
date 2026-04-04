@@ -37,7 +37,8 @@
 <p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3h6bDducDB2YWoybTZvZjQ3Nmg3YXE1aGN0YjdwN2xlcHhzMW95ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="800" height="400" />
 </p>
-Welcome to my profile! I'm **Rinku**, a passionate **B.Tech CSE student at Invertis University** and a growing **Full Stack Developer**.
+
+Welcome to my profile! I'm  **Rinku** , a passionate **B.Tech CSE student at Invertis University** and a growing **Full Stack Developer**.
 
 I focus on building **real-world, scalable applications** and transforming ideas into complete digital products. My journey has evolved from simple coding to developing **full business solutions and modern web platforms**.
 
