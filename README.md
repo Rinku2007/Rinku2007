@@ -25,8 +25,8 @@
 <img src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
-<a href="mailto:gangwarrinku205@gmail.com">
-<img src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=gangwarrinku205@gmail.com">
+  <img src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </p>
